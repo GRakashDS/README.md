@@ -29,9 +29,6 @@ Business Intelligence & Data Analytics Professional | Power BI | SQL | Data Scie
 
 
 ---
-git add README.md
-git commit -m "Move README to root for profile overview"
-git push origin main
 
 
 ## 🎯 Career Goals
