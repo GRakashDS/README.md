@@ -28,7 +28,10 @@
 
 
 ---
- 
+git add README.md
+git commit -m "Move README to root for profile overview"
+git push origin main
+
 
 ## 🎯 Career Goals
 To apply my **data science expertise** in real-world projects that create measurable impact, improve decision-making, and leverage modern **data infrastructure**.  
