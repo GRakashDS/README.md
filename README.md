@@ -3,6 +3,8 @@
 
 # Hi there 👋, I'm Akash GR  
 
+Business Intelligence & Data Analytics Professional | Power BI | SQL | Data Science
+
 🎓 **M.Tech in Data Science** | 📊 **Data Analyst & Machine Learning Enthusiast** | ⚙️ **Aspiring Data Engineer**  
 
 💡 Passionate about transforming raw data into actionable insights and building intelligent, data-driven solutions.  
@@ -23,7 +25,6 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
